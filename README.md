@@ -70,6 +70,8 @@ arena_elemental/
 └── README.md
 ```
 
-## Autor
-Estudiante: Julian jimenez 
+## Datos del estudiante
 
+- **Nombre:** Julian Jimenez
+- **Asignatura:** Programación Orientada a Objetos
+- **Docente:** Eduardo Enrique Pimienta León
