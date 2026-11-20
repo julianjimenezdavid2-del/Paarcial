@@ -1,0 +1,1 @@
+# No hay dependencias externas. Tkinter forma parte de la biblioteca estándar de Python.
