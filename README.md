@@ -71,4 +71,5 @@ arena_elemental/
 ```
 
 ## Autor
-Estudiante: completar con nombre y grupo antes de entregar.
+Estudiante: Julian jimenez 
+
